@@ -1,4 +1,5 @@
 require_relative "boot"
+puts ENV["SAZZAD"]
 
 require "rails"
 # Pick the frameworks you want:
